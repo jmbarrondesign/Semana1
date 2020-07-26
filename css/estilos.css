@@ -1,0 +1,30 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+h2{
+    font-size: 24px;
+    margin-bottom: 18px;
+}
+
+h3{
+    font-size: 18px;
+    font-weight: 400 ;
+}
+
+#inicio{
+    height: 70vh;
+    width: 100%;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: cover;
+}
+
+#listaprincipal{
+    height: 10vh;
+}
+
+.lista{
+    font-weight: 600;
+    list-style: none;
+}
