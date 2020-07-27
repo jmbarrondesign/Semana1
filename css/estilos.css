@@ -3,6 +3,12 @@
     margin: 0px;
 }
 
+a.hover{
+
+    cursor: pointer;
+    color:#EC7063;
+}
+
 h2{
     font-size: 24px;
     margin-bottom: 18px;
@@ -20,11 +26,27 @@ h3{
     background-size: cover;
 }
 
-#listaprincipal{
+#lista-principal{
     height: 10vh;
 }
 
-.lista{
+.ulista{
     font-weight: 600;
     list-style: none;
+
 }
+
+#portada{
+    height: 60vh;
+    background-color: #EC7063;
+    padding-left: 10%;
+    padding-top: 3%;
+    paddin
+}
+
+#portada-imagen{
+    width: 120px;
+    height: 120px;
+
+}
+
