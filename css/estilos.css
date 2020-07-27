@@ -1,9 +1,9 @@
 *{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px;
+    margin: 0;
 }
 
-a.hover{
+a:hover{
 
     cursor: pointer;
     color:#EC7063;
@@ -38,15 +38,53 @@ h3{
 
 #portada{
     height: 60vh;
-    background-color: #EC7063;
-    padding-left: 10%;
-    padding-top: 3%;
-    paddin
 }
 
-#portada-imagen{
+.portada-imagen{
     width: 120px;
     height: 120px;
 
 }
 
+#sobremi{
+    height: 30vh;
+    background-color: #EC7063;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    text-align: center;
+}
+
+#titulosobremi{
+    margin: 10%;
+}
+
+#proyectos{
+    padding-top: 8%;
+    text-align: center;
+    text-decoration-color: #EC7063;
+    font-weight: 600;
+}
+
+#SubtituloProyectos{
+    font-weight: 400;
+    padding-bottom: 8%;
+    text-align: center;
+}
+
+#contacto{
+    margin: 8%;
+    background-color:  #455a64;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#footer{
+    background-color: #37474f;
+    text-align: left;
+    padding-bottom: 5%;
+    padding-right: 10%;
+}
